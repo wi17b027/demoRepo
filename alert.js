@@ -1,4 +1,4 @@
-
-function doSomething(a, b) {
-  return "Ha no";
+function myFunction() {
+  var carName = "Volvo";
+  alert(carName);
 }
