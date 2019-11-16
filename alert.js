@@ -1,3 +1,3 @@
 function myFunction() {
-    document.getElementById("logoLink").innerHTML="Noob Lab";
+    document.getElementById("demo").innerHTML="Paragraph changed.";
 }
