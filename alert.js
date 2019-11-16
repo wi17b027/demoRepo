@@ -1,4 +1,4 @@
 
 function doSomething(a, b) {
-  return a*b;
+  return "Ha no";
 }
