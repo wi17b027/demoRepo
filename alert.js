@@ -1,1 +1,4 @@
-<script>alert("Hello World")</script>
+
+function doSomething(a, b) {
+  return a*b;
+}
